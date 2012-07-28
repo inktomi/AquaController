@@ -1,0 +1,4 @@
+<resources>
+    <item type="id" name="home_view_pager" />
+    <item type="id" name="menu_settings" />
+</resources>

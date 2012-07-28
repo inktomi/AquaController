@@ -1,0 +1,11 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <header android:fragment="com.mruno.SettingsActivity$URLFragment"
+            android:title="URL"
+            android:summary="The URL to your AquaController." />
+
+    <header android:fragment="com.mruno.SettingsActivity$LoginFragment"
+            android:title="Login Information"
+            android:summary="Authentication information to get into your AquaController.">
+    </header>
+</preference-headers>

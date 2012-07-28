@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Connection">
+
+        <EditTextPreference
+                android:key="url_preference"
+                android:persistent="true"
+                android:title="URL"
+                android:summary="The URL"
+                android:defaultValue="http://"/>
+        <EditTextPreference
+                android:key="port_preference"
+                android:persistent="true"
+                android:title="Port Number"
+                android:summary="Only needed if you're not using port 80." />
+
+    </PreferenceCategory>
+</PreferenceScreen>

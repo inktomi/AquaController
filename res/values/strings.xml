@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AquaController</string>
+    <string name="settings_name">Settings</string>
+
+    <!-- Default Resources -->
+    <string name="dashboard_tag">Outlet</string>
+    <string name="dashboard_status_off">OFF</string>
+    <string name="dashboard_status_auto">AUTO</string>
+    <string name="dashboard_status_on">ON</string>
+
+    <string name="no_data">No data has been loaded yet.</string>
+</resources>
